@@ -10,4 +10,4 @@ Another future plan of PilotDNS is the implementation of a Dynamic DNS service, 
 
 PilotDNS is truly a one-stop-shop for domain name service management.
 
-# Please note: # - We are almost ready to release version 1.0.0 of the API component of PilotDNS - please 'watch' this repository for changes, we do not expect it to be very much longer.
+** Please note: - We are almost ready to release version 1.0.0 of the API component of PilotDNS - please 'watch' this repository for changes, we do not expect it to be very much longer.
